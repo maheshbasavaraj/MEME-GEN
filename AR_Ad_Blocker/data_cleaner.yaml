@@ -1,0 +1,18 @@
+1 # --- The Bulletproof YAML Creator ---
+    2
+    3 # 1. IMPORTANT: EDIT THIS ONE LINE with your dataset name
+    4 dataset_folder_name = "billboard-v1-dataset" # <--- REPLACE THIS
+    5
+    6 # 2. This script builds the correct YAML content
+    7 yaml_content = f"""
+    8 train: /kaggle/input/{dataset_folder_name}/billboard.v1i.yolov8/train/images
+    9 val: /kaggle/input/{dataset_folder_name}/billboard.v1i.yolov8/valid/images
+   10 nc: 1
+   11 names: ['billboard']
+   12 """
+   13
+   14 # 3. This writes the content to the file, ensuring no syntax errors
+   15 with open("/kaggle/working/kaggle_data.yaml", "w") as f:
+   16     f.write(yaml_content)
+   17
+   18 print("Successfully created a clean kaggle_data.yaml file.")

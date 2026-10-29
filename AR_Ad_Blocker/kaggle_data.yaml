@@ -1,0 +1,13 @@
+# KAGGLE-SPECIFIC DATA CONFIGURATION
+# IMPORTANT: You MUST edit the paths below to match your dataset's location in Kaggle.
+
+# Find your dataset path in the Kaggle "Data" tab and replace the placeholder.
+# It will look something like: /kaggle/input/<your-dataset-name>/billboard.v1i.yolov8/
+train: /kaggle/input/billboard-dataset/billboard.v1i.yolov8/train/images
+val: /kaggle/input/billboard-dataset/billboard.v1i.yolov8/valid/images
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['billboard']

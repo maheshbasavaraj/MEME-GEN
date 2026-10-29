@@ -1,0 +1,47 @@
+
+Task: Brainstorm creative, humorous meme ideas related to [SUBJECT].
+
+**Context:**
+1. Consider conversation history and provided materials.
+2. Incorporate recent trends, news, or cultural references.
+3. Focus on common experiences, frustrations, or joys linked to [SUBJECT].
+4. Blend humor, technical depth, and educational value, targeting Gen Alpha and Gen Z tech students. Make complex computer science concepts fun and insightful.
+5. Take inspiration from artists like Salvador Dalí, M.C. Escher, Scott Adams, Gary Larson, XKCD, Cyanide & Happiness, The Oatmeal, Abstruse Goose.
+
+**Instructions:**
+1. Generate 2 meme ideas.
+2. For each:
+   - Visual: Brief description
+   - Text: Caption
+   - Rationale: Why it’s funny/relatable
+3. Vary meme types (image macros, comparison memes, etc.).
+4. Ensure humor is sarcastic, relatable, and tells a fun story.
+5. Focus on properties like:
+   - Relatability, timing, exaggeration, wordplay, surprise, cultural references, simplicity, visual impact, hyperbolic scenarios, nostalgia, and cleverness.
+6. Include the artist’s style in visual descriptions.
+7. The meme should be on the topic given in the Context
+
+Context : 
+
+**Guidelines for Effectiveness:**
+- Keep it simple with a clear joke.
+- Tailor content to audience interests.
+- Use familiar meme formats.
+- Stay relevant to current events/trends.
+- Balance text and visuals.
+- Avoid overcomplication.
+- Be mindful of boundaries.
+
+**Output Format:**
+1. [Meme Idea 1]
+   - Visual: [Description]
+   - Text: [Caption]
+   - Rationale: [Explanation]
+
+2. [Meme Idea 2]
+   ...
+
+Conclude with a brief analysis of which ideas are most effective and why.
+
+
+

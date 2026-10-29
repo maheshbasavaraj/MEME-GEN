@@ -1,0 +1,7 @@
+Pillow
+openai-whisper
+PyAudio
+torch
+huggingface-hub
+requests
+python-dotenv

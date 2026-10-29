@@ -1,0 +1,11 @@
+# Corrected and cleaned data configuration for YOLOv8 training
+
+# Set paths relative to the 'AR_Ad_Blocker' directory
+train: C:/Mahesh/AI projects/MEME GEN/AR_Ad_Blocker/billboard.v1i.yolov8/train/images
+val: C:/Mahesh/AI projects/MEME GEN/AR_Ad_Blocker/billboard.v1i.yolov8/valid/images
+
+# Set the number of classes
+nc: 1
+
+# Define the single class name
+names: ['billboard']

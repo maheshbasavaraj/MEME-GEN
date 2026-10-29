@@ -1,0 +1,14 @@
+google-generativeai
+requests
+Pillow
+python-dotenv
+schedule
+numpy
+scipy
+torch
+transformers
+openai
+beautifulsoup4
+lxml
+nltk
+pydantic
